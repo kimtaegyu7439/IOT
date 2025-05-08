@@ -1,8 +1,8 @@
-📘 IoT25-HW01~03: ESP32 기본 실습 과제
-🏫 Gachon University – School of Computing
-과목: Sensors and Wireless Technologies
-지도교수: Prof. Jaehyuk Choi
-학기: Spring 2025
+# 📘 IoT25-HW01~03: ESP32 기본 실습 과제
+# 🏫 Gachon University – School of Computing
+### 과목: Sensors and Wireless Technologies
+### 지도교수: Prof. Jaehyuk Choi
+### 학기: Spring 2025
 
 🧩 과제 목록
 # ✅ HW01. ESP32 Arduino IDE 설치 및 점검
