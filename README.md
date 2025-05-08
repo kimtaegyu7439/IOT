@@ -8,7 +8,7 @@
 # ✅ HW01. ESP32 Arduino IDE 설치 및 점검
 ## 목표: ESP32 개발 환경 설정 및 기본 예제(LED Blink) 업로드
 
-##참고 링크:
+## 참고 링크:
 Installing ESP32 Board - IDE 2.0
 
 제출 내용:
