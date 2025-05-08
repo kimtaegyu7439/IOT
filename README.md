@@ -12,6 +12,7 @@
 Installing ESP32 Board - IDE 2.0
 
 제출 내용:
+✅ 코드 파일: IoT25-HW01
 
 ✅ Arduino IDE에서 ESP32 보드 및 포트 설정 화면 캡처
 
@@ -29,7 +30,7 @@ ESP32 Digital Input/Output
 
 제출 내용:
 
-✅ 코드 파일: button_LED
+✅ 코드 파일: IoT25-HW02
 
 ✅ Arduino IDE 보드 설정 및 업로드 화면 캡처
 ![image](https://github.com/user-attachments/assets/e6fa8456-1010-4c1d-ae69-e49ecc0cd19f)
@@ -45,7 +46,7 @@ ESP32 Analog Read (ADC)
 
 제출 내용:
 
-✅ 코드 파일: Sensor
+✅ 코드 파일: IoT25-HW03
 
 ✅ 아날로그 값 출력 결과가 보이는 IDE 실행 화면 캡처
 
