@@ -5,8 +5,8 @@
 학기: Spring 2025
 
 🧩 과제 목록
-#✅ HW01. ESP32 Arduino IDE 설치 및 점검
-##목표: ESP32 개발 환경 설정 및 기본 예제(LED Blink) 업로드
+# ✅ HW01. ESP32 Arduino IDE 설치 및 점검
+## 목표: ESP32 개발 환경 설정 및 기본 예제(LED Blink) 업로드
 
 ##참고 링크:
 Installing ESP32 Board - IDE 2.0
@@ -18,10 +18,10 @@ Installing ESP32 Board - IDE 2.0
 ![image](https://github.com/user-attachments/assets/06ad3e5a-f582-49ad-bbc7-762583af4bf9)
 
 
-#✅ ESP32에 업로드된 LED 점멸 동작 사진/영상
+# ✅ ESP32에 업로드된 LED 점멸 동작 사진/영상
 🔗 [실행 영상 보기 (YouTube)](https://youtube.com/shorts/v0tBj6gvC-E)
 
-#✅ HW02. 센서 및 액추에이터 기본 제어
+# ✅ HW02. 센서 및 액추에이터 기본 제어
 목표: 버튼 입력 및 디지털 출력 (LED, 부저 등) 제어
 
 참고 링크:
